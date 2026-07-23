@@ -1,0 +1,50 @@
+# Oria Patel Enterprises
+
+> B2B custom sports uniform manufacturer based in Sialkot, Pakistan — the global hub of sports manufacturing. We supply custom sublimated sportswear, boxing gloves, and athletic apparel to clubs, academies, retailers, and distributors worldwide with no minimum order requirement.
+
+## About
+
+Oria Patel Enterprises is a direct manufacturer, not a middleman. All products are manufactured in-house in Sialkot, Punjab, Pakistan. We offer 100% sublimation printing, free design mockups, and fast worldwide delivery. We work with football clubs, boxing gyms, schools, retailers, and bulk importers across Europe, North America, Australia, and the Middle East.
+
+## Products
+
+- [All Products](/products/)
+- [Sports Uniforms](/products/category/sports-uniforms/)
+- [Boxing Gloves](/products/category/boxing-gloves/)
+- [Casual Wear](/products/category/casual-wear/)
+- [Female Sportswear](/products/category/female/)
+- [Hoodies & Jackets](/products/category/hoodies/)
+- [Gloves](/products/category/gloves/)
+- [Gear & Equipment](/products/category/gear/)
+
+## Key Pages
+
+- [Home](/)
+- [Products Archive](/products/)
+- [Customer Reviews](/reviews/)
+- [Blog](/blog/)
+- [Contact & Get a Quote](/contact/)
+- [About Us](/about/)
+- [Privacy Policy](/privacy-policy/)
+- [Terms & Conditions](/terms/)
+- [XML Sitemap](/sitemap.xml)
+
+## Contact
+
+- Email: info@oriapatel.com, admin@oriapatel.com
+- Phone: +92 311 7337511
+- WhatsApp: https://wa.me/923117337511
+- Address: Sialkot, Punjab, Pakistan
+- Response time: Within 24 hours, available 24/7
+
+## Business Details
+
+- Founded: Sialkot, Pakistan
+- Specialisation: Custom sublimated sportswear and boxing equipment
+- Minimum order: No minimum order quantity
+- Services: Free design mockup, worldwide shipping, custom branding, bulk orders
+- Certifications: ISO-compliant manufacturing facilities
+
+## Optional
+
+- [llms-full.txt](/llms-full.txt)
